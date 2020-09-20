@@ -19,7 +19,7 @@
   background-size: cover;
 }
 #body {
-  display: flex;
+  display:flex;
   flex-direction:column;
 }
 .project {
