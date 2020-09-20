@@ -6,3 +6,8 @@ img {
   height: 500px;
   width: 700px;
 }
+#introduction {
+  background-color: #cccccc;
+  height: 300px;
+  text-align: center;
+}
