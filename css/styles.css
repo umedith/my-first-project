@@ -2,3 +2,7 @@ img {
   height: 350px;
   width:350px;
 }
+#body img{
+  height: 500px;
+  width: 700px;
+}
